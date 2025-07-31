@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Port Hedland",
+    "unlocode": "AUPHE",
+    "country": "AU",
+    "harbor_use": "Bulk",
+    "lat": -20.3104,
+    "lon": 118.6109,
+    "agent": "\n        <p><strong>Name:</strong> Global Shipping Agency</p>\n        <p><strong>Phone:</strong> +1 555 234 5678</p>\n        <p><strong>Email:</strong> contact@globalsa.com</p>\n        ",
+    "uwi": "\n        <p>UWI License required for loading bulk ore and grain.</p>\n        ",
+    "supplier": "\n        <ul>\n          <li>Fuel: Available</li>\n          <li>Water: Yes</li>\n          <li>Provisions: By arrangement</li>\n        </ul>\n        ",
+    "workshop": "\n        <p>Crane and welding services available 24/7</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Welding_in_a_workshop.jpg/640px-Welding_in_a_workshop.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        ",
+    "port_info": "\n        <p><strong>Max draft:</strong> 18.5 m</p>\n        <p><strong>Anchorage:</strong> 5 nm offshore</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg/640px-Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        "
+  },
+  {
+    "name": "Richards Bay",
+    "unlocode": "ZARCB",
+    "country": "ZA",
+    "harbor_use": "Bulk",
+    "lat": -28.783,
+    "lon": 32.037,
+    "agent": "\n        <p><strong>Name:</strong> Global Shipping Agency</p>\n        <p><strong>Phone:</strong> +1 555 234 5678</p>\n        <p><strong>Email:</strong> contact@globalsa.com</p>\n        ",
+    "uwi": "\n        <p>UWI License required for loading bulk ore and grain.</p>\n        ",
+    "supplier": "\n        <ul>\n          <li>Fuel: Available</li>\n          <li>Water: Yes</li>\n          <li>Provisions: By arrangement</li>\n        </ul>\n        ",
+    "workshop": "\n        <p>Crane and welding services available 24/7</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Welding_in_a_workshop.jpg/640px-Welding_in_a_workshop.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        ",
+    "port_info": "\n        <p><strong>Max draft:</strong> 18.5 m</p>\n        <p><strong>Anchorage:</strong> 5 nm offshore</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg/640px-Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        "
+  },
+  {
+    "name": "Rosario",
+    "unlocode": "ARRAO",
+    "country": "AR",
+    "harbor_use": "Bulk",
+    "lat": -32.9511,
+    "lon": -60.6663,
+    "agent": "\n        <p><strong>Name:</strong> Global Shipping Agency</p>\n        <p><strong>Phone:</strong> +1 555 234 5678</p>\n        <p><strong>Email:</strong> contact@globalsa.com</p>\n        ",
+    "uwi": "\n        <p>UWI License required for loading bulk ore and grain.</p>\n        ",
+    "supplier": "\n        <ul>\n          <li>Fuel: Available</li>\n          <li>Water: Yes</li>\n          <li>Provisions: By arrangement</li>\n        </ul>\n        ",
+    "workshop": "\n        <p>Crane and welding services available 24/7</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Welding_in_a_workshop.jpg/640px-Welding_in_a_workshop.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        ",
+    "port_info": "\n        <p><strong>Max draft:</strong> 18.5 m</p>\n        <p><strong>Anchorage:</strong> 5 nm offshore</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg/640px-Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        "
+  },
+  {
+    "name": "Qingdao",
+    "unlocode": "CNTAO",
+    "country": "CN",
+    "harbor_use": "Bulk",
+    "lat": 36.0671,
+    "lon": 120.3826,
+    "agent": "\n        <p><strong>Name:</strong> Global Shipping Agency</p>\n        <p><strong>Phone:</strong> +1 555 234 5678</p>\n        <p><strong>Email:</strong> contact@globalsa.com</p>\n        ",
+    "uwi": "\n        <p>UWI License required for loading bulk ore and grain.</p>\n        ",
+    "supplier": "\n        <ul>\n          <li>Fuel: Available</li>\n          <li>Water: Yes</li>\n          <li>Provisions: By arrangement</li>\n        </ul>\n        ",
+    "workshop": "\n        <p>Crane and welding services available 24/7</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Welding_in_a_workshop.jpg/640px-Welding_in_a_workshop.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        ",
+    "port_info": "\n        <p><strong>Max draft:</strong> 18.5 m</p>\n        <p><strong>Anchorage:</strong> 5 nm offshore</p>\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg/640px-Port_of_Hamburg%2C_Germany_%28aerial_view%29.jpg\" style=\"width:100%;border-radius:6px;margin-top:6px;\">\n        "
+  }
+]
