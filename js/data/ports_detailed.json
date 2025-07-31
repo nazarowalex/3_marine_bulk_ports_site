@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Port Hedland",
+    "unlocode": "AUPHE",
+    "country": "AU",
+    "harbor_use": "Bulk",
+    "lat": -20.3104,
+    "lon": 118.6109,
+    "agent": "Northwest Shipping Services",
+    "uwi": "Diving available 24/7",
+    "supplier": "Bunkering, fresh water, food provisions",
+    "workshop": "Mechanical, hull and electrical repairs"
+  },
+  {
+    "name": "Richards Bay",
+    "unlocode": "ZARCB",
+    "country": "ZA",
+    "harbor_use": "Bulk",
+    "lat": -28.783,
+    "lon": 32.037,
+    "agent": "African Maritime Agency",
+    "uwi": "Limited underwater support",
+    "supplier": "Fuel oil, fresh water",
+    "workshop": "Light repairs available"
+  },
+  {
+    "name": "Rosario",
+    "unlocode": "ARRAO",
+    "country": "AR",
+    "harbor_use": "Bulk",
+    "lat": -32.9511,
+    "lon": -60.6663,
+    "agent": "Rosario Shipping Co.",
+    "uwi": "Not available",
+    "supplier": "Basic supplies",
+    "workshop": "None"
+  },
+  {
+    "name": "Port-Cartier",
+    "unlocode": "CAPCR",
+    "country": "CA",
+    "harbor_use": "Bulk",
+    "lat": 50.0333,
+    "lon": -66.8667,
+    "agent": "Cartier Shipping Ltd.",
+    "uwi": "Third-party divers on call",
+    "supplier": "All major provisions",
+    "workshop": "Standard repair yard"
+  },
+  {
+    "name": "Qingdao",
+    "unlocode": "CNTAO",
+    "country": "CN",
+    "harbor_use": "Bulk",
+    "lat": 36.0671,
+    "lon": 120.3826,
+    "agent": "Qingdao Port Authority",
+    "uwi": "Available 24/7 with equipment",
+    "supplier": "Fuel, water, groceries, spare parts",
+    "workshop": "Full shipyard service"
+  }
+]
