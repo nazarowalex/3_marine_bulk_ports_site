@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Port Hedland",
+    "unlocode": "AUPHE",
+    "country": "AU",
+    "harbor_use": "Bulk",
+    "lat": -20.3104,
+    "lon": 118.6109,
+    "agent": "\n<h5>Northwest Shipping Services</h5>\n<p>Contact: John Smith<br>Email: <a href='mailto:john@nwshipping.com'>john@nwshipping.com</a><br>Phone: +61 8 1234 5678</p>\n",
+    "uwi": "\n<ul>\n  <li>Divers: Available 24/7</li>\n  <li>ROV Support: Yes</li>\n  <li>Inspection Reports: PDF, Video</li>\n</ul>\n",
+    "supplier": "\n<table border=\"1\" cellpadding=\"4\">\n<tr><th>Supply</th><th>Available</th></tr>\n<tr><td>Fuel</td><td>Yes</td></tr>\n<tr><td>Water</td><td>Yes</td></tr>\n<tr><td>Provisions</td><td>By arrangement</td></tr>\n</table>\n",
+    "workshop": "\n<p>Port Hedland workshop offers:</p>\n<ul>\n  <li>Mechanical repair</li>\n  <li>Hull welding</li>\n  <li>Electrical diagnostics</li>\n</ul>\n",
+    "port_info": "\n<h5>Overview</h5>\n<p>Port Hedland is the world\u2019s largest bulk export port, located in Western Australia.</p>\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Port_Hedland_03.jpg/320px-Port_Hedland_03.jpg\" width=\"200\">\n"
+  },
+  {
+    "name": "Richards Bay",
+    "unlocode": "ZARCB",
+    "country": "ZA",
+    "harbor_use": "Bulk",
+    "lat": -28.783,
+    "lon": 32.037,
+    "agent": "African Maritime Agency",
+    "uwi": "Limited underwater support",
+    "supplier": "Fuel oil, fresh water",
+    "workshop": "Light repairs available"
+  },
+  {
+    "name": "Rosario",
+    "unlocode": "ARRAO",
+    "country": "AR",
+    "harbor_use": "Bulk",
+    "lat": -32.9511,
+    "lon": -60.6663,
+    "agent": "Rosario Shipping Co.",
+    "uwi": "Not available",
+    "supplier": "Basic supplies",
+    "workshop": "None"
+  },
+  {
+    "name": "Port-Cartier",
+    "unlocode": "CAPCR",
+    "country": "CA",
+    "harbor_use": "Bulk",
+    "lat": 50.0333,
+    "lon": -66.8667,
+    "agent": "Cartier Shipping Ltd.",
+    "uwi": "Third-party divers on call",
+    "supplier": "All major provisions",
+    "workshop": "Standard repair yard"
+  },
+  {
+    "name": "Qingdao",
+    "unlocode": "CNTAO",
+    "country": "CN",
+    "harbor_use": "Bulk",
+    "lat": 36.0671,
+    "lon": 120.3826,
+    "agent": "Qingdao Port Authority",
+    "uwi": "Available 24/7 with equipment",
+    "supplier": "Fuel, water, groceries, spare parts",
+    "workshop": "Full shipyard service"
+  }
+]
